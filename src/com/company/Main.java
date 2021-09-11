@@ -27,7 +27,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Velkommen til BMI beregneren!");
+        System.out.println("Velkommen til BMI beregner v2.0!");
 
         Scanner sc = new Scanner(System.in);
 
